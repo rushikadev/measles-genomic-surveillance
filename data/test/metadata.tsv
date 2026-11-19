@@ -1,0 +1,37 @@
+accession	isolate	length	description	partial	geo_loc_name	collection_date_raw	genotype	state	collection_date	year
+PZ988148.1	M2025-156	15883	Measles virus genotype D8 strain MVs/Texas.USA/8.25/4, complete genome	False	USA: TX	Feb-2025	Distinct Sequence ID (DSId) 9171; D8	Texas	2025-02-01	2025
+PZ988150.1	M2025-158	15884	Measles virus genotype D8 strain MVs/Texas.USA/7.25/15, complete genome	False	USA: TX	Feb-2025	Distinct Sequence ID (DSId) 9171; D8	Texas	2025-02-01	2025
+PZ988157.1	M2025-238	15894	Measles virus genotype D8 strain MVs/Texas.USA/12.25, complete genome	False	USA: TX	Mar-2025	Distinct Sequence ID (DSId) 9171; D8	Texas	2025-03-01	2025
+PZ988139.1	M20251125	15825	Measles virus genotype D8 isolate M20251125, complete genome	False	USA: Texas	Mar-2025	D8	Texas	2025-03-01	2025
+PZ988153.1	M2025-326	15891	Measles virus genotype D8 strain MVs/Texas.USA/Mar.25/1423, complete genome	False	USA: TX	Mar-2025	Distinct Sequence ID (DSId) 9171; D8	Texas	2025-03-01	2025
+PZ988154.1	M2025-190	15879	Measles virus genotype D8 strain MVs/Texas.USA/10.25/3, complete genome	False	USA: TX	Mar-2025	Distinct Sequence ID (DSId) 9171; D8	Texas	2025-03-01	2025
+PZ988155.1	M2025-331	15894	Measles virus genotype D8 strain MVs/Texas.USA/Mar.25/1489, complete genome	False	USA: TX	Mar-2025	Distinct Sequence ID (DSId) 9171; D8	Texas	2025-03-01	2025
+PZ988156.1	M2025-341	15894	Measles virus genotype D8 strain MVs/Texas.USA/Mar.25/1596, complete genome	False	USA: TX	Mar-2025	Distinct Sequence ID (DSId) 9322; D8	Texas	2025-03-01	2025
+PZ988158.1	M2025-352	15894	Measles virus genotype D8 strain MVs/Texas.USA/Apr.25/1784, complete genome	False	USA: TX	Apr-2025	Distinct Sequence ID (DSId) 9171; D8	Texas	2025-04-01	2025
+PZ988145.1	M2025-1129	15865	Measles virus genotype D8 strain MVs/Minnesota.USA/Sep.25/1861, complete genome	False	USA: MN	Sep-2025	Distinct Sequence ID (DSId) 9171; D8	Minnesota	2025-09-01	2025
+PZ988147.1	M2025-970	15891	Measles virus genotype D8 strain MVs/Arizona.USA/Oct.25/2886, complete genome	False	USA: AZ	Oct-2025	Distinct Sequence ID (DSId) 9171; D8	Arizona	2025-10-01	2025
+PZ988149.1	M2025-932	15863	Measles virus genotype D8 strain MVs/Arizona.USA/Nov.25/2080, complete genome	False	USA: AZ	Nov-2025	Distinct Sequence ID (DSId) 9171; D8	Arizona	2025-11-01	2025
+QB113772.1	MVs/Indiana.USA/34.26/UT-UPHL-260925265878 [D8]	15769	Measles virus genotype D8 isolate MVs/Indiana.USA/34.26/UT-UPHL-260925265878 [D8], partial genome	True	USA: Indiana	2026-08-24	D8	Indiana	2026-08-24	2026
+QB113773.1	MVs/Indiana.USA/35.26/UT-UPHL-260925397876 [D8]	15773	Measles virus genotype D8 isolate MVs/Indiana.USA/35.26/UT-UPHL-260925397876 [D8], partial genome	True	USA: Indiana	2026-08-27	D8	Indiana	2026-08-27	2026
+QB113771.1	MVs/Indiana.USA/35.26/UT-UPHL-260925264842 [D8]	15756	Measles virus genotype D8 isolate MVs/Indiana.USA/35.26/UT-UPHL-260925264842 [D8], partial genome	True	USA: Indiana	2026-08-31	D8	Indiana	2026-08-31	2026
+QB113769.1	MVs/Indiana.USA/36.26/UT-UPHL-260925640767 [D8]	15749	Measles virus genotype D8 isolate MVs/Indiana.USA/36.26/UT-UPHL-260925640767 [D8], partial genome	True	USA: Indiana	2026-09-05	D8	Indiana	2026-09-05	2026
+QB113770.1	MVs/Indiana.USA/36.26/UT-UPHL-260925886670 [D8]	15771	Measles virus genotype D8 isolate MVs/Indiana.USA/36.26/UT-UPHL-260925886670 [D8], partial genome	True	USA: Indiana	2026-09-05	D8	Indiana	2026-09-05	2026
+QB113774.1	MVs/Indiana.USA/37.26/UT-UPHL-260925927303 [D8]	15769	Measles virus genotype D8 isolate MVs/Indiana.USA/37.26/UT-UPHL-260925927303 [D8], partial genome	True	USA: Indiana	2026-09-09	D8	Indiana	2026-09-09	2026
+QB113775.1	MVs/Indiana.USA/37.26/UT-UPHL-260925621561 [D8]	15768	Measles virus genotype D8 isolate MVs/Indiana.USA/37.26/UT-UPHL-260925621561 [D8], partial genome	True	USA: Indiana	2026-09-09	D8	Indiana	2026-09-09	2026
+QB134806.1	DE-2026-0021	15804	Measles virus genotype D8 isolate DE-2026-0021, partial genome	True	USA	11-Sep-2026	D8	USA	2026-09-11	2026
+QB113768.1	MVs/Indiana.USA/37.26/UT-UPHL-260925603532 [D8]	15769	Measles virus genotype D8 isolate MVs/Indiana.USA/37.26/UT-UPHL-260925603532 [D8], partial genome	True	USA: Indiana	2026-09-13	D8	Indiana	2026-09-13	2026
+QB178461.1	MVs/Indiana.USA/38.26/UT-UPHL-261009024991 [D8]	15769	Measles virus genotype D8 isolate MVs/Indiana.USA/38.26/UT-UPHL-261009024991 [D8], partial genome	True	USA: Indiana	2026-09-18	D8	Indiana	2026-09-18	2026
+QB178466.1	MVs/Indiana.USA/38.26/UT-UPHL-261009569836 [D8]	15769	Measles virus genotype D8 isolate MVs/Indiana.USA/38.26/UT-UPHL-261009569836 [D8], partial genome	True	USA: Indiana	2026-09-18	D8	Indiana	2026-09-18	2026
+QB136218.1	MVs/Washington.USA/39.2026/1/WAPHL-534007	15704	Measles virus genotype D8 isolate MVs/Washington.USA/39.2026/1/WAPHL-534007, partial genome	True	USA: Washington	2026-09-21	D8	Washington	2026-09-21	2026
+QB136219.1	MVs/Washington.USA/39.2026/2/WAPHL-174182	15704	Measles virus genotype D8 isolate MVs/Washington.USA/39.2026/2/WAPHL-174182, partial genome	True	USA: Washington	2026-09-21	D8	Washington	2026-09-21	2026
+QB178462.1	MVs/Indiana.USA/38.26/UT-UPHL-261009565489 [D8]	15769	Measles virus genotype D8 isolate MVs/Indiana.USA/38.26/UT-UPHL-261009565489 [D8], partial genome	True	USA: Indiana	2026-09-22	D8	Indiana	2026-09-22	2026
+QB178467.1	MVs/Indiana.USA/39.26/UT-UPHL-261009290082 [D8]	15769	Measles virus genotype D8 isolate MVs/Indiana.USA/39.26/UT-UPHL-261009290082 [D8], partial genome	True	USA: Indiana	2026-09-23	D8	Indiana	2026-09-23	2026
+QB137582.1	MVs/Utah.USA/39.26/UT-UPHL-261002441824 [D8]	15742	Measles virus genotype D8 isolate MVs/Utah.USA/39.26/UT-UPHL-261002441824 [D8], partial genome	True	USA: Utah	2026-09-24	D8	Utah	2026-09-24	2026
+QB178465.1	MVs/Indiana.USA/39.26/UT-UPHL-261009414852 [D8]	15769	Measles virus genotype D8 isolate MVs/Indiana.USA/39.26/UT-UPHL-261009414852 [D8], partial genome	True	USA: Indiana	2026-09-26	D8	Indiana	2026-09-26	2026
+QB178464.1	MVs/Indiana.USA/39.26/UT-UPHL-261009675270 [D8]	15769	Measles virus genotype D8 isolate MVs/Indiana.USA/39.26/UT-UPHL-261009675270 [D8], partial genome	True	USA: Indiana	2026-09-28	D8	Indiana	2026-09-28	2026
+QB178460.1	MVs/Indiana.USA/39.26/UT-UPHL-261009429532 [D8]	15771	Measles virus genotype D8 isolate MVs/Indiana.USA/39.26/UT-UPHL-261009429532 [D8], partial genome	True	USA: Indiana	2026-09-29	D8	Indiana	2026-09-29	2026
+QB178463.1	MVs/Indiana.USA/40.26/UT-UPHL-261009633795 [D8]	15769	Measles virus genotype D8 isolate MVs/Indiana.USA/40.26/UT-UPHL-261009633795 [D8], partial genome	True	USA: Indiana	2026-09-30	D8	Indiana	2026-09-30	2026
+QB184526.1	DE-2026-0023	15791	Measles virus genotype D8 isolate DE-2026-0023, complete genome	False	USA: Pennsylvania	02-Oct-2026	D8	Pennsylvania	2026-10-02	2026
+QB184527.1	DE-2026-0022	15792	Measles virus genotype D8 isolate DE-2026-0022, complete genome	False	USA: Pennsylvania	07-Oct-2026	D8	Pennsylvania	2026-10-07	2026
+QB200402.1	MVs/Iowa.USA/41.26/UT-UPHL-261016316602 [D8]	15771	Measles virus genotype D8 isolate MVs/Iowa.USA/41.26/UT-UPHL-261016316602 [D8], partial genome	True	USA: Iowa	2026-10-09	D8	Iowa	2026-10-09	2026
+QB276525.1	MVs/Iowa.USA/43.26/UT-UPHL-261030594512 [D8]	15768	Measles virus genotype D8 isolate MVs/Iowa.USA/43.26/UT-UPHL-261030594512 [D8], partial genome	True	USA: Iowa	2026-10-21	D8	Iowa	2026-10-21	2026
