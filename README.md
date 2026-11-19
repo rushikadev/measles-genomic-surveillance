@@ -29,3 +29,5 @@ python workflow/scripts/build_metadata.py
 mafft --auto data/test/measles_test_filtered.fasta > results/aligned.fasta
 iqtree -s results/aligned.fasta -m MFP -B 1000 -T AUTO --prefix results/measles
 ```
+
+![Tree of 36 US measles D8 genomes](results/tree.png)
