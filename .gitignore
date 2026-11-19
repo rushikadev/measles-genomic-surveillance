@@ -229,3 +229,12 @@ results/*.bionj
 results/*.model.gz
 results/*.splits.nex
 results/*.log
+data/raw/sample*.fasta
+data/raw/outgroups.fasta
+results/aligned_full.fasta
+results/measles_full.ckp.gz
+results/measles_full.mldist
+results/measles_full.bionj
+results/measles_full.model.gz
+results/measles_full.splits.nex
+results/measles_full.log

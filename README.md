@@ -31,3 +31,11 @@ iqtree -s results/aligned.fasta -m MFP -B 1000 -T AUTO --prefix results/measles
 ```
 
 ![Tree of 36 US measles D8 genomes](results/tree.png)
+
+## Current status (Nov 2026)
+- Balanced sample of 246 US D8 genomes (max 5 per state per quarter) plus 5 outgroups
+- ML tree built with IQ-TREE (K3Pu+F, 1000 ultrafast bootstraps, converged)
+- **Known issue:** IQ-TREE reported that the outgroups do not form their own
+  clade, so the tree is **not reliably rooted**. Do not read branch order as
+  chronological. Next step is to investigate the outgroups or leave it unrooted.
+- Sequence counts reflect submission patterns, not case counts.
