@@ -221,3 +221,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# IQ-TREE intermediates
+results/*.ckp.gz
+results/*.mldist
+results/*.bionj
+results/*.model.gz
+results/*.splits.nex
+results/*.log
