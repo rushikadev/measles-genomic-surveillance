@@ -35,7 +35,10 @@ iqtree -s results/aligned.fasta -m MFP -B 1000 -T AUTO --prefix results/measles
 ## Current status (Nov 2026)
 - Balanced sample of 246 US D8 genomes (max 5 per state per quarter) plus 5 outgroups
 - ML tree built with IQ-TREE (K3Pu+F, 1000 ultrafast bootstraps, converged)
-- **Known issue:** IQ-TREE reported that the outgroups do not form their own
-  clade, so the tree is **not reliably rooted**. Do not read branch order as
-  chronological. Next step is to investigate the outgroups or leave it unrooted.
+- Tree rooted on four 2019 California D8 genomes (they form their own clade,
+  about 0.006 substitutions/site from the nearest 2025-2026 sample). The 2024
+  Thailand genome nests inside the US outbreak sequences, so it is treated as an
+  ordinary tip, not an outgroup. Rooting on 2019 California assumes those
+  samples are older than the outbreak lineages, which fits their dates but is
+  not proven by the tree.
 - Sequence counts reflect submission patterns, not case counts.
