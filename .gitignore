@@ -238,3 +238,4 @@ results/measles_full.bionj
 results/measles_full.model.gz
 results/measles_full.splits.nex
 results/measles_full.log
+data/raw/measles_us_test.fasta
