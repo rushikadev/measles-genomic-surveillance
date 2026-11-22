@@ -44,3 +44,11 @@ iqtree -s results/aligned.fasta -m MFP -B 1000 -T AUTO --prefix results/measles
   samples are older than the outbreak lineages, which fits their dates but is
   not proven by the tree.
 - Sequence counts reflect submission patterns, not case counts.
+
+![Tree of 251 US measles D8 genomes](results/tree_full.png)
+
+*Maximum-likelihood phylogeny of 246 US measles D8 genomes (2025-2026) rooted on
+four 2019 California genomes; the 2024 Thailand genome is shown as an ordinary
+tip. Tips are colored by state for the seven best-sampled states. Sampling was
+capped at five genomes per state per quarter, so counts reflect sampling effort,
+not case counts. Branch order does not indicate direction of transmission.*
