@@ -33,7 +33,7 @@ iqtree -s results/aligned.fasta -m MFP -B 1000 -T AUTO --prefix results/measles
 ![Tree of 36 US measles D8 genomes](results/tree.png)
 
 ## Current status (Nov 2026)
-- Balanced sample of 246 US D8 genomes (max 5 per state per quarter) plus 5 outgroups
+- Balanced sample of 246 US D8 genomes (max 5 per state per quarter) plus 4 outgroups (plus 1 Thailand 2024 genome that nests inside the US sequences)
 - ML tree built with IQ-TREE (K3Pu+F, 1000 ultrafast bootstraps, converged)
 - Tree rooted on four 2019 California D8 genomes (they form their own clade,
   about 0.006 substitutions/site from the nearest 2025-2026 sample). The 2024
