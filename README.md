@@ -1,5 +1,7 @@
 # Measles in the US: Genomic Surveillance and the Immunity Gap
 
+![tests](https://github.com/rushikadev/measles-genomic-surveillance/actions/workflows/ci.yml/badge.svg)
+
 Work in progress. This project asks whether measles lineages that have
 circulated in the US since 2025 are concentrated where vaccine coverage
 is lowest.
