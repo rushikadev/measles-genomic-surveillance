@@ -70,3 +70,30 @@ def test_sample_is_reproducible():
 def test_committed_sample_respects_cap():
     df = pd.read_csv("data/raw/sample_metadata.tsv", sep="\t")
     assert df.groupby(["state", "quarter"]).size().max() <= 5
+
+
+def test_cdc_mmr_keeps_plain_mmr_states_and_coerces_codes():
+    from measles_utils import clean_cdc_mmr
+    raw = pd.DataFrame({
+        "Vaccine/Exemption": ["MMR", "MMR", "MMR (PAC)", "MMR", "Exemption"],
+        "Dose": [None, None, "MMR (PAC)", None, "Any Exemption"],
+        "Geography Type": ["States", "States", "States", "National", "States"],
+        "Geography": ["Idaho", "Utah", "Idaho", "United States", "Idaho"],
+        "School Year": ["2025-26"] * 5,
+        "Estimate (%)": ["75.2", "NReq", "83.4", "92.4", "17.0"],
+        "Percent Surveyed": [100.0] * 5,
+        "Survey Type": ["Census ", "Census", "Census", "Census", "Census"],
+    })
+    out = clean_cdc_mmr(raw)
+    assert out["state"].tolist() == ["Idaho", "Utah"]
+    assert out.loc[0, "mmr_coverage"] == 75.2
+    assert pd.isna(out.loc[1, "mmr_coverage"])
+    assert out["full_census"].all()
+
+
+def test_committed_cdc_data_matches_published_headlines():
+    df = pd.read_csv("data/raw/cdc_mmr_state.csv")
+    cur = df[df["school_year"] == "2025-26"].set_index("state")["mmr_coverage"]
+    assert cur["Idaho"] == 75.2
+    assert cur["West Virginia"] == 98.9
+    assert cur["Utah"] == 87.2

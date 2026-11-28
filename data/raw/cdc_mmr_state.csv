@@ -1,0 +1,869 @@
+state,school_year,mmr_coverage,percent_surveyed,survey_type,full_census
+Kansas,2022-23,91.6,30.8,Stratified 1-stage cluster sample,False
+Kentucky,2022-23,90.1,96.9,Census,True
+Louisiana,2022-23,92.2,100.0,Census,True
+Maine,2022-23,96.8,93.9,Census,True
+Maryland,2022-23,96.7,100.0,Census,True
+Massachusetts,2022-23,96.5,100.0,Census,True
+Michigan,2022-23,92.9,100.0,Census,True
+Minnesota,2022-23,87.6,97.9,Census,True
+Mississippi,2022-23,98.4,100.0,Census,True
+Missouri,2022-23,91.3,100.0,Census,True
+Nebraska,2022-23,95.1,100.0,Census,True
+Nevada,2022-23,92.8,89.1,"Vol. response (pub.), census (pvt.)",False
+New Hampshire,2022-23,89.4,100.0,Census,True
+New Jersey,2022-23,94.3,100.0,Census,True
+New Mexico,2022-23,94.9,100.0,Census,True
+New York,2022-23,97.9,96.6,"Census (pub.), vol. response (pvt.)",False
+NY-City of New York,2022-23,97.3,97.6,"Census (pub.), vol. response (pvt.)",False
+North Carolina,2022-23,94.0,83.1,Vol. response,False
+North Dakota,2022-23,92.0,99.4,Census,True
+Ohio,2022-23,89.3,93.7,"Census (pub.), vol. response (pvt.)",False
+Oklahoma,2022-23,89.6,89.5,"Census (pub.), vol. response (pvt.)",False
+Oregon,2022-23,91.9,100.0,Census,True
+Pennsylvania,2022-23,94.0,97.2,"Census (pub.), vol. response (pvt.)",False
+Rhode Island,2022-23,96.9,96.5,Census,True
+South Carolina,2022-23,93.2,28.1,Stratified 1-stage cluster sample,False
+South Dakota,2022-23,92.5,100.0,Census,True
+Tennessee,2022-23,95.4,100.0,Census,True
+Texas,2022-23,94.2,98.0,Census,True
+Utah,2022-23,90.0,100.0,Census,True
+Vermont,2022-23,93.1,100.0,Census,True
+Virginia,2022-23,95.8,1.6,Stratified 2-stage cluster sample,False
+Washington,2022-23,91.4,97.9,Census,True
+West Virginia,2022-23,95.6,86.1,"Vol. response (pub.), census (pvt.)",False
+Wisconsin,2022-23,86.5,93.9,"Census (pub.), vol. response (pvt.)",False
+Wyoming,2022-23,90.8,100.0,Census,True
+Arkansas,2022-23,91.9,95.8,"Census (pub.), vol. response (pvt.)",False
+California,2022-23,96.5,100.0,Census,True
+Colorado,2022-23,87.0,97.2,Census,True
+Connecticut,2022-23,97.3,100.0,Census,True
+Delaware,2022-23,95.1,9.7,Stratified 2-stage cluster sample,False
+District of Columbia,2022-23,87.5,100.0,Census,True
+Florida,2022-23,90.6,97.7,Census,True
+Georgia,2022-23,88.1,100.0,Census,True
+Hawaii,2022-23,86.4,8.1,Stratified 2-stage cluster sample,False
+Idaho,2022-23,81.3,99.3,Census,True
+Illinois,2022-23,91.7,100.0,Census,True
+Indiana,2022-23,92.0,87.5,"Vol. response (pub.), census (pvt.)",False
+Iowa,2022-23,89.9,100.0,Census,True
+Alabama,2022-23,93.9,100.0,Census,True
+Alaska,2022-23,83.6,88.8,"Vol. response (pub.), not conducted (pvt.)",False
+Arizona,2022-23,89.9,97.7,Census,True
+TX-City of Houston,2022-23,91.3,98.8,"Census (pub.), vol. response (pvt.)",False
+Alabama,2009-10,94.0,100.0,Census,True
+Alaska,2009-10,,76.4,Voluntary response,False
+Arizona,2009-10,95.0,93.9,Census,True
+Arkansas,2009-10,98.3,100.0,Census,True
+California,2009-10,93.6,100.0,Census,True
+Colorado,2009-10,,,Not conducted,False
+Connecticut,2009-10,98.5,100.0,Census,True
+Delaware,2009-10,89.7,9.2,Random sample,False
+District of Columbia,2009-10,,100.0,Census,True
+Florida,2009-10,91.3,100.0,Census,True
+Georgia,2009-10,99.6,1.2,Random sample,False
+Hawaii,2009-10,,6.4,Random sample,False
+Idaho,2009-10,87.0,100.0,Census,True
+Illinois,2009-10,94.5,100.0,Census,True
+Indiana,2009-10,92.8,94.7,Census,True
+Iowa,2009-10,84.5,100.0,Census,True
+Kansas,2009-10,90.9,39.1,Stratified 1-stage sample  (Public);  Census (Private),False
+Kentucky,2009-10,92.2,92.9,Census,True
+Louisiana,2009-10,96.9,100.0,Census,True
+Maine,2009-10,95.5,75.3,Voluntary response,False
+Maryland,2009-10,98.9,75.0,Voluntary response,False
+Massachusetts,2009-10,93.0,100.0,Census,True
+Michigan,2009-10,95.3,100.0,Census,True
+Minnesota,2009-10,95.1,100.0,Census,True
+Mississippi,2009-10,99.7,100.0,Census,True
+Missouri,2009-10,97.3,3.0,Random sample,False
+Montana,2009-10,95.5,98.8,Census,True
+Nebraska,2009-10,97.5,96.4,Census,True
+Nevada,2009-10,94.5,5.6,Random sample,False
+New Hampshire,2009-10,,,Not conducted,False
+New Jersey,2009-10,,95.1,Census,True
+New Mexico,2009-10,97.6,2.2,Random sample,False
+New York,2009-10,97.6,100.0,Census,True
+North Carolina,2009-10,,96.0,Census,True
+North Dakota,2009-10,92.2,6.0,Random sample,False
+Ohio,2009-10,88.6,100.0,Census,True
+Oklahoma,2009-10,97.3,88.9,Voluntary response,False
+Oregon,2009-10,94.4,100.0,Census,True
+Pennsylvania,2009-10,86.9,100.0,Census,True
+Rhode Island,2009-10,92.1,11.6,Random sample,False
+South Carolina,2009-10,87.2,10.2,Random sample,False
+South Dakota,2009-10,96.8,100.0,Census,True
+Tennessee,2009-10,97.4,88.1,Voluntary response,False
+Texas,2009-10,98.1,98.3,Census,True
+Utah,2009-10,97.7,100.0,Census,True
+Vermont,2009-10,91.8,100.0,Census,True
+Virginia,2009-10,92.1,4.4,Random sample,False
+Washington,2009-10,91.7,93.3,Census,True
+West Virginia,2009-10,91.2,86.7,Voluntary response,False
+Wisconsin,2009-10,94.2,2.3,Random sample,False
+Wyoming,2009-10,,,Not conducted,False
+Alabama,2010-11,,,,False
+Alaska,2010-11,,,,False
+Arizona,2010-11,,,,False
+Arkansas,2010-11,,,,False
+California,2010-11,,,,False
+Colorado,2010-11,,,,False
+Connecticut,2010-11,,,,False
+Delaware,2010-11,,,,False
+District of Columbia,2010-11,,,,False
+Florida,2010-11,,,,False
+Georgia,2010-11,,,,False
+Hawaii,2010-11,,,,False
+Idaho,2010-11,,,,False
+Illinois,2010-11,,,,False
+Indiana,2010-11,,,,False
+Iowa,2010-11,,,,False
+Kansas,2010-11,,,,False
+Kentucky,2010-11,,,,False
+Louisiana,2010-11,,,,False
+Maine,2010-11,,,,False
+Maryland,2010-11,,,,False
+Massachusetts,2010-11,,,,False
+Michigan,2010-11,,,,False
+Minnesota,2010-11,,,,False
+Mississippi,2010-11,,,,False
+Missouri,2010-11,,,,False
+Montana,2010-11,,,,False
+Nebraska,2010-11,,,,False
+Nevada,2010-11,,,,False
+New Hampshire,2010-11,,,,False
+New Jersey,2010-11,,,,False
+New Mexico,2010-11,,,,False
+New York,2010-11,,,,False
+North Carolina,2010-11,,,,False
+North Dakota,2010-11,,,,False
+Ohio,2010-11,,,,False
+Oklahoma,2010-11,,,,False
+Oregon,2010-11,,,,False
+Pennsylvania,2010-11,,,,False
+Rhode Island,2010-11,,,,False
+South Carolina,2010-11,,,,False
+South Dakota,2010-11,,,,False
+Tennessee,2010-11,,,,False
+Texas,2010-11,,,,False
+Utah,2010-11,,,,False
+Vermont,2010-11,,,,False
+Virginia,2010-11,,,,False
+Washington,2010-11,,,,False
+West Virginia,2010-11,,,,False
+Wisconsin,2010-11,,,,False
+Wyoming,2010-11,,,,False
+Alabama,2011-12,93.6,100.0,Census,True
+Alaska,2011-12,,7.3,Non-random Cluster Sample,False
+Arizona,2011-12,94.7,96.9,Census,True
+Arkansas,2011-12,94.9,92.2,Census,True
+California,2011-12,93.2,97.6,Census,True
+Colorado,2011-12,86.8,0.5,Simple Random Sample,False
+Connecticut,2011-12,97.4,100.0,Census,True
+Delaware,2011-12,96.9,7.4,2-stage Cluster Sample,False
+District of Columbia,2011-12,,100.0,Census,True
+Florida,2011-12,92.6,100.0,Census,True
+Georgia,2011-12,96.6,1.9,2-stage Cluster Sample,False
+Hawaii,2011-12,,7.7,2-stage Cluster Sample,False
+Idaho,2011-12,89.2,100.0,Census,True
+Illinois,2011-12,97.3,100.0,Census,True
+Indiana,2011-12,93.3,67.5,Voluntary Response,False
+Iowa,2011-12,91.1,100.0,Census,True
+Kansas,2011-12,88.2,52.7,Stratified 1-stage sample  (Public);  Census (Private),False
+Kentucky,2011-12,92.0,91.8,Census,True
+Louisiana,2011-12,98.1,100.0,Census,True
+Maine,2011-12,93.0,97.0,Census,True
+Maryland,2011-12,98.7,67.2,Voluntary Response,False
+Massachusetts,2011-12,94.2,97.5,Census,True
+Michigan,2011-12,95.0,100.0,Census,True
+Minnesota,2011-12,95.7,99.2,Census,True
+Mississippi,2011-12,99.2,100.0,Census,True
+Missouri,2011-12,96.8,4.7,2-stage Cluster Sample,False
+Montana,2011-12,95.0,100.0,Census,True
+Nebraska,2011-12,99.0,96.6,Census,True
+Nevada,2011-12,95.3,5.2,2-stage Cluster Sample,False
+New Hampshire,2011-12,,100.0,Census,True
+New Jersey,2011-12,,96.6,Census,True
+New Mexico,2011-12,95.7,2.0,2-stage Cluster Sample,False
+New York,2011-12,96.9,100.0,Census,True
+North Carolina,2011-12,,95.4,Census,True
+North Dakota,2011-12,90.6,5.8,Convenient ,False
+Ohio,2011-12,96.1,94.5,Convenient ,False
+Oklahoma,2011-12,95.0,90.9,Census,True
+Oregon,2011-12,94.0,100.0,Census,True
+Pennsylvania,2011-12,86.9,99.0,Census,True
+Rhode Island,2011-12,91.7,13.9,2-stage Cluster Sample,False
+South Carolina,2011-12,94.5,10.7,1-stage Cluster Sample,False
+South Dakota,2011-12,97.4,100.0,Census,True
+Tennessee,2011-12,97.3,99.9,Census,True
+Texas,2011-12,99.3,100.0,Census,True
+Utah,2011-12,98.0,100.0,Census,True
+Vermont,2011-12,92.9,100.0,Census,True
+Virginia,2011-12,93.0,4.3,2-stage Cluster Sample,False
+Washington,2011-12,91.8,89.1,Voluntary Response,False
+West Virginia,2011-12,92.0,94.9,Convenient ,False
+Wisconsin,2011-12,93.1,2.3,2-stage Cluster Sample,False
+Wyoming,2011-12,,,Not conducted,False
+Alabama,2012-13,92.8,100.0,Census,True
+Alaska,2012-13,,97.8,Census,True
+Arizona,2012-13,94.5,97.6,Census,True
+Arkansas,2012-13,85.9,96.3,Census,True
+California,2012-13,92.7,99.0,Census,True
+Colorado,2012-13,85.7,0.5,Simple Random Sample,False
+Connecticut,2012-13,97.1,100.0,Census,True
+Delaware,2012-13,95.7,7.8,2-stage Cluster Sample,False
+District of Columbia,2012-13,,100.0,Census,True
+Florida,2012-13,92.1,100.0,Census,True
+Georgia,2012-13,95.1,2.4,2-stage Cluster Sample,False
+Hawaii,2012-13,,6.7,2-stage Cluster Sample,False
+Idaho,2012-13,88.4,100.0,Census,True
+Illinois,2012-13,95.5,100.0,Census,True
+Indiana,2012-13,95.4,83.4,Voluntary Response,False
+Iowa,2012-13,90.5,99.9,Census,True
+Kansas,2012-13,90.0,31.8,Stratified 1-stage sample  (Public);  Census (Private),False
+Kentucky,2012-13,92.4,97.2,Census,True
+Louisiana,2012-13,96.6,100.0,Census,True
+Maine,2012-13,91.3,94.6,Census,True
+Maryland,2012-13,98.2,84.3,Voluntary Response,False
+Massachusetts,2012-13,94.8,97.6,Census,True
+Michigan,2012-13,94.4,100.0,Census,True
+Minnesota,2012-13,96.3,100.0,Census,True
+Mississippi,2012-13,99.9,100.0,Census,True
+Missouri,2012-13,96.7,5.9,2-stage Cluster Sample,False
+Montana,2012-13,94.8,95.8,Census,True
+Nebraska,2012-13,96.0,96.6,Census,True
+Nevada,2012-13,93.6,4.3,2-stage Cluster Sample,False
+New Hampshire,2012-13,,99.2,Census,True
+New Jersey,2012-13,97.0,96.7,Census,True
+New Mexico,2012-13,93.9,3.3,2-stage Cluster Sample,False
+New York,2012-13,96.6,100.0,Census,True
+North Carolina,2012-13,,97.3,Census,True
+North Dakota,2012-13,89.9,4.9,2-stage Cluster Sample,False
+Ohio,2012-13,96.3,86.9,Census,True
+Oklahoma,2012-13,90.5,95.5,Census,True
+Oregon,2012-13,93.5,100.0,Census,True
+Pennsylvania,2012-13,87.0,97.5,Census,True
+Rhode Island,2012-13,94.2,75.2,Voluntary Response,False
+South Carolina,2012-13,90.9,17.9,1-Stage Cluster Sample,False
+South Dakota,2012-13,97.9,100.0,Census,True
+Tennessee,2012-13,94.5,97.0,Census,True
+Texas,2012-13,97.5,96.6,Census,True
+Utah,2012-13,96.3,100.0,Census,True
+Vermont,2012-13,92.8,100.0,Census,True
+Virginia,2012-13,93.1,4.2,2-stage Cluster Sample,False
+Washington,2012-13,91.7,94.7,Census,True
+West Virginia,2012-13,96.3,86.5,Voluntary Response,False
+Wisconsin,2012-13,92.8,1.8,2-stage Cluster Sample,False
+Wyoming,2012-13,97.5,100.0,Census,True
+Alabama,2013-14,92.0,100.0,Census,True
+Alaska,2013-14,94.4,9.3,Stratified  2-stage cluster sample,False
+Arizona,2013-14,93.9,95.8,Census,True
+Arkansas,2013-14,86.5,96.3,Census,True
+California,2013-14,92.3,97.3,Census,True
+Colorado,2013-14,81.7,0.5,Random Sample,False
+Connecticut,2013-14,96.9,100.0,Census,True
+Delaware,2013-14,96.4,12.2,Stratified  2-stage cluster sample,False
+District of Columbia,2013-14,,100.0,Census,True
+Florida,2013-14,93.2,100.0,Census,True
+Georgia,2013-14,94.0,100.0,Census,True
+Hawaii,2013-14,,5.4,Stratified  2-stage cluster sample,False
+Idaho,2013-14,88.2,100.0,Census,True
+Illinois,2013-14,94.7,100.0,Census,True
+Indiana,2013-14,92.9,70.3,Voluntary response,False
+Iowa,2013-14,91.0,94.6,Census,True
+Kansas,2013-14,86.9,29.0,Stratified 1-stage sample  (Public);  Census (Private),False
+Kentucky,2013-14,92.6,100.0,Census,True
+Louisiana,2013-14,96.8,100.0,Census,True
+Maine,2013-14,89.9,82.4,Voluntary response,False
+Maryland,2013-14,97.6,96.9,Census,True
+Massachusetts,2013-14,95.1,97.9,Census,True
+Michigan,2013-14,97.5,100.0,Census,True
+Minnesota,2013-14,93.4,98.5,Census,True
+Mississippi,2013-14,99.7,100.0,Census,True
+Missouri,2013-14,95.5,100.0,Census,True
+Montana,2013-14,93.7,95.4,Census,True
+Nebraska,2013-14,96.6,97.3,Census,True
+Nevada,2013-14,95.6,3.1,Stratified  2-stage cluster sample,False
+New Hampshire,2013-14,94.7,100.0,Census,True
+New Jersey,2013-14,96.8,95.4,Census,True
+New Mexico,2013-14,95.9,2.7,Stratified  2-stage cluster sample,False
+New York,2013-14,96.8,100.0,Census,True
+North Carolina,2013-14,,97.7,Census,True
+North Dakota,2013-14,90.0,96.1,Census (Public); Stratified  2-stage cluster sample(Private),False
+Ohio,2013-14,96.2,92.5,Census,True
+Oklahoma,2013-14,96.4,71.3,Voluntary response,False
+Oregon,2013-14,93.2,100.0,Census,True
+Pennsylvania,2013-14,85.3,100.0,Census,True
+Rhode Island,2013-14,95.1,99.1,Census,True
+South Carolina,2013-14,96.8,11.0,1-stage stratified sample,False
+South Dakota,2013-14,96.6,100.0,Census,True
+Tennessee,2013-14,94.9,99.8,Census,True
+Texas,2013-14,97.5,97.1,Census,True
+Utah,2013-14,98.5,100.0,Census,True
+Vermont,2013-14,91.2,100.0,Census,True
+Virginia,2013-14,93.1,4.1,2-stage cluster  sample,False
+Washington,2013-14,89.7,88.5,Voluntary response,False
+West Virginia,2013-14,96.1,84.7,Voluntary response,False
+Wisconsin,2013-14,92.6,2.8,Stratified  2-stage cluster sample,False
+Wyoming,2013-14,,,Not conducted,False
+Alabama,2014-15,93.5,100.0,Census,True
+Alaska,2014-15,92.7,7.8,Stratified 2-stage cluster sample,False
+Arizona,2014-15,94.2,98.3,Census,True
+Arkansas,2014-15,88.4,95.9,Census (public); Voluntary response (private),False
+California,2014-15,92.6,96.9,Census,True
+Colorado,2014-15,86.9,0.5,Simple random sample,False
+Connecticut,2014-15,97.0,100.0,Census,True
+Delaware,2014-15,97.8,7.9,Stratified 2-stage cluster sample,False
+District of Columbia,2014-15,89.9,100.0,Census,True
+Florida,2014-15,93.3,100.0,Census,True
+Georgia,2014-15,94.0,100.0,Census,True
+Hawaii,2014-15,,5.6,Stratified 2-stage cluster sample,False
+Idaho,2014-15,89.5,100.0,Census,True
+Illinois,2014-15,94.7,100.0,Census,True
+Indiana,2014-15,89.3,70.1,Voluntary response,False
+Iowa,2014-15,91.9,96.3,Census,True
+Kansas,2014-15,89.2,24.5,Stratified 2-stage cluster sample,False
+Kentucky,2014-15,92.7,97.2,Census,True
+Louisiana,2014-15,96.8,100.0,Census,True
+Maine,2014-15,92.1,88.9,Voluntary response (public); Census (private),False
+Maryland,2014-15,99.1,90.2,Census (public); Voluntary response (private),False
+Massachusetts,2014-15,94.7,100.0,Census,True
+Michigan,2014-15,94.3,100.0,Census,True
+Minnesota,2014-15,93.5,97.8,Census,True
+Mississippi,2014-15,99.2,100.0,Census,True
+Missouri,2014-15,95.8,100.0,Census,True
+Montana,2014-15,94.6,95.7,Census (public); Voluntary response (private),False
+Nebraska,2014-15,96.0,100.0,Census,True
+Nevada,2014-15,94.0,2.8,Stratified 2-stage cluster sample,False
+New Hampshire,2014-15,91.4,98.9,Census (public); Voluntary response (private),False
+New Jersey,2014-15,92.3,93.9,Census (public); Voluntary response (private),False
+New Mexico,2014-15,97.7,3.3,Stratified 2-stage cluster sample,False
+New York,2014-15,98.2,100.0,Census,True
+North Carolina,2014-15,96.5,95.0,Census (public). Voluntary response (private),False
+North Dakota,2014-15,89.8,99.9,Census,True
+Ohio,2014-15,91.9,91.0,Census (public); Voluntary response (private),False
+Oklahoma,2014-15,90.3,95.9,Census,True
+Oregon,2014-15,94.1,100.0,Census,True
+Pennsylvania,2014-15,91.7,98.3,Census,True
+Rhode Island,2014-15,95.7,98.9,Census,True
+South Carolina,2014-15,96.5,12.2,Stratified 1-stage cluster sample,False
+South Dakota,2014-15,97.1,100.0,Census,True
+Tennessee,2014-15,95.1,100.0,Census,True
+Texas,2014-15,97.4,98.3,Census (public); Voluntary response (private),False
+Utah,2014-15,94.0,100.0,Census,True
+Vermont,2014-15,92.7,100.0,Census,True
+Virginia,2014-15,93.4,4.1,Stratified 2-stage cluster sample,False
+Washington,2014-15,89.4,96.7,Census (public); Voluntary response (private),False
+West Virginia,2014-15,97.6,81.3,Voluntary response,False
+Wisconsin,2014-15,91.6,2.5,Stratified 2-stage cluster sample,False
+Wyoming,2014-15,96.8,97.9,Census,True
+Alabama,2015-16,93.1,100.0,Census,True
+Alaska,2015-16,93.5,7.8,Stratified 2-stage cluster sample,False
+Arizona,2015-16,94.2,100.0,Census,True
+Arkansas,2015-16,90.8,95.6,Census (public); Voluntary response (private),False
+California,2015-16,94.5,92.8,Census,True
+Colorado,2015-16,87.1,0.5,Simple random sample,False
+Connecticut,2015-16,97.0,100.0,Census,True
+Delaware,2015-16,97.6,9.5,Stratified 2-stage cluster sample,False
+District of Columbia,2015-16,88.5,100.0,Census,True
+Florida,2015-16,93.7,100.0,Census,True
+Georgia,2015-16,94.6,100.0,Census,True
+Hawaii,2015-16,91.6,6.7,Stratified 2-stage cluster sample,False
+Idaho,2015-16,90.2,100.0,Census,True
+Illinois,2015-16,94.9,100.0,Census,True
+Indiana,2015-16,89.2,69.5,Voluntary response,False
+Iowa,2015-16,91.8,100.0,Census,True
+Kansas,2015-16,89.4,21.0,Stratified 2-stage cluster sample,False
+Kentucky,2015-16,92.2,99.5,Census,True
+Louisiana,2015-16,96.8,100.0,Census,True
+Maine,2015-16,95.1,90.5,Census,True
+Maryland,2015-16,99.4,94.3,Census (public); Voluntary response (private),False
+Massachusetts,2015-16,96.4,100.0,Census,True
+Michigan,2015-16,95.7,100.0,Census,True
+Minnesota,2015-16,92.8,97.8,Census,True
+Mississippi,2015-16,99.4,100.0,Census,True
+Missouri,2015-16,95.7,100.0,Census,True
+Montana,2015-16,94.9,100.0,Census,True
+Nebraska,2015-16,95.6,100.0,Census,True
+Nevada,2015-16,94.7,3.3,Stratified 2-stage cluster sample,False
+New Hampshire,2015-16,91.9,99.8,Census,True
+New Jersey,2015-16,96.3,100.0,Census,True
+New Mexico,2015-16,96.2,2.7,Stratified 2-stage cluster sample,False
+New York,2015-16,95.6,100.0,Census,True
+North Carolina,2015-16,97.3,92.0,Census (public). Voluntary response (private),False
+North Dakota,2015-16,90.7,97.1,Census,True
+Ohio,2015-16,92.1,93.7,Census (public); Voluntary response (private),False
+Oklahoma,2015-16,94.4,96.1,Census,True
+Oregon,2015-16,93.9,100.0,Census,True
+Pennsylvania,2015-16,95.5,93.2,Census (public); Voluntary response (private),False
+Rhode Island,2015-16,96.4,100.0,Census,True
+South Carolina,2015-16,96.5,8.9,Stratified 1-stage cluster sample,False
+South Dakota,2015-16,96.5,100.0,Census,True
+Tennessee,2015-16,93.5,100.0,Census,True
+Texas,2015-16,97.6,98.7,Census (public); Voluntary response (private),False
+Utah,2015-16,94.2,100.0,Census,True
+Vermont,2015-16,93.6,100.0,Census,True
+Virginia,2015-16,95.7,4.3,Stratified 2-stage cluster sample,False
+Washington,2015-16,91.0,97.3,Census,True
+West Virginia,2015-16,95.2,87.6,Voluntary response,False
+Wisconsin,2015-16,93.2,2.0,Stratified 2-stage cluster sample,False
+Wyoming,2015-16,96.9,74.0,Voluntary response,False
+Alabama,2016-17,93.8,100.0,Census,True
+Alaska,2016-17,89.0,7.6,Stratified 2-stage cluster sample,False
+Arizona,2016-17,94.0,100.0,Census,True
+Arkansas,2016-17,91.9,75.9,Voluntary response,False
+California,2016-17,97.3,97.8,Census,True
+Colorado,2016-17,87.3,100.0,Census,True
+Connecticut,2016-17,96.7,100.0,Census,True
+Delaware,2016-17,98.5,9.3,Stratified 2-stage cluster sample,False
+Florida,2016-17,94.1,100.0,Census,True
+Georgia,2016-17,93.3,100.0,Census,True
+Hawaii,2016-17,93.5,6.7,Stratified 2-stage cluster sample,False
+Idaho,2016-17,89.9,100.0,Census,True
+Illinois,2016-17,94.9,97.7,Census,True
+Indiana,2016-17,88.9,80.3,Voluntary response,False
+Iowa,2016-17,92.6,100.0,Census,True
+Kansas,2016-17,89.5,22.9,Stratified 2-stage cluster sample,False
+Kentucky,2016-17,90.8,92.9,Census,True
+Louisiana,2016-17,97.1,100.0,Census,True
+Maine,2016-17,94.9,90.1,Voluntary response (public). census (private),False
+Maryland,2016-17,97.9,98.1,Census,True
+Massachusetts,2016-17,96.1,100.0,Census,True
+Michigan,2016-17,95.6,100.0,Census,True
+Minnesota,2016-17,92.8,96.7,Census,True
+Mississippi,2016-17,99.4,100.0,Census,True
+Missouri,2016-17,95.4,100.0,Census,True
+Montana,2016-17,93.8,100.0,Census,True
+Nebraska,2016-17,96.7,100.0,Census,True
+Nevada,2016-17,90.9,3.7,Stratified 2-stage cluster sample,False
+New Hampshire,2016-17,91.5,100.0,Census,True
+New Jersey,2016-17,96.5,100.0,Census,True
+New Mexico,2016-17,95.5,4.5,Stratified 2-stage cluster sample,False
+New York,2016-17,97.3,100.0,Census,True
+North Carolina,2016-17,96.2,88.2,Voluntary response,False
+North Dakota,2016-17,93.8,98.7,Census,True
+Ohio,2016-17,92.6,95.5,Census,True
+Oklahoma,2016-17,,0.0,Census,True
+Oregon,2016-17,93.8,100.0,Census,True
+Pennsylvania,2016-17,93.6,84.4,Voluntary response,False
+Rhode Island,2016-17,95.1,98.4,Census,True
+South Carolina,2016-17,96.0,8.9,Stratified 1-stage cluster sample,False
+South Dakota,2016-17,96.7,99.8,Census,True
+Tennessee,2016-17,96.9,100.0,Census,True
+Texas,2016-17,97.3,99.0,Census,True
+Utah,2016-17,93.8,100.0,Census,True
+Vermont,2016-17,93.6,100.0,Census,True
+Virginia,2016-17,94.1,4.0,Stratified 2-stage cluster sample,False
+Washington,2016-17,90.5,98.2,Census,True
+West Virginia,2016-17,95.9,66.5,Census (public). voluntary response (private),False
+Wisconsin,2016-17,94.0,2.2,Stratified 2-stage cluster sample,False
+Wyoming,2016-17,,,Not conducted,False
+Alabama,2017-18,92.7,100.0,Census,True
+Alaska,2017-18,91.6,84.4,Stratified 2-stage cluster sample,False
+Arizona,2017-18,93.4,100.0,Census,True
+Arkansas,2017-18,91.9,95.4,Census ,True
+California,2017-18,96.9,100.0,Census,True
+Colorado,2017-18,88.7,100.0,Census,True
+Connecticut,2017-18,96.5,100.0,Census,True
+Delaware,2017-18,96.7,9.5,Stratified 2-stage cluster sample,False
+Florida,2017-18,93.7,100.0,Census,True
+Georgia,2017-18,93.4,100.0,Census,True
+Hawaii,2017-18,95.6,6.6,Stratified 2-stage cluster sample,False
+Idaho,2017-18,89.5,99.0,Census,True
+Illinois,2017-18,95.2,100.0,Census,True
+Indiana,2017-18,90.4,96.4,Voluntary Response,False
+Iowa,2017-18,93.0,100.0,Census,True
+Kansas,2017-18,89.1,23.1,Stratified 2-stage cluster sample,False
+Kentucky,2017-18,92.6,99.0,Census,True
+Louisiana,2017-18,96.1,100.0,Census,True
+Maine,2017-18,94.3,95.9,Census,True
+Maryland,2017-18,97.4,98.5,Census,True
+Massachusetts,2017-18,96.3,100.0,Census,True
+Michigan,2017-18,95.0,100.0,Census,True
+Minnesota,2017-18,92.5,98.1,Census,True
+Mississippi,2017-18,99.4,100.0,Census,True
+Missouri,2017-18,95.2,100.0,Census,True
+Montana,2017-18,93.2,100.0,Census,True
+Nebraska,2017-18,96.2,98.6,Census,True
+Nevada,2017-18,93.0,4.8,Stratified 2-stage cluster sample,False
+New Hampshire,2017-18,92.4,100.0,Census,True
+New Jersey,2017-18,96.1,100.0,Census,True
+New Mexico,2017-18,94.8,99.6,Stratified 2-stage cluster sample,False
+New York,2017-18,97.2,100.0,Census,True
+North Carolina,2017-18,97.0,90.9,Census,True
+North Dakota,2017-18,94.2,99.4,Census,True
+Ohio,2017-18,92.1,94.9,Census,True
+Oklahoma,2017-18,92.6,92.1,Census (public). voluntary response (private),False
+Oregon,2017-18,93.2,100.0,Census,True
+Pennsylvania,2017-18,96.7,93.3,Voluntary response,False
+Rhode Island,2017-18,96.4,100.0,Census,True
+South Carolina,2017-18,96.3,27.0,Stratified 1-stage cluster sample,False
+South Dakota,2017-18,96.6,99.9,Census,True
+Tennessee,2017-18,96.9,100.0,Census,True
+Texas,2017-18,96.9,99.4,Census,True
+Utah,2017-18,93.4,100.0,Census,True
+Vermont,2017-18,94.1,100.0,Census,True
+Virginia,2017-18,95.5,4.4,Stratified 2-stage cluster sample,False
+Washington,2017-18,90.6,96.9,Census,True
+West Virginia,2017-18,98.4,79.3,Voluntary response,False
+Wisconsin,2017-18,91.8,2.3,Stratified 2-stage cluster sample,False
+Wyoming,2017-18,,,Not conducted ,False
+Alabama,2018-19,90.6,100.0,Census,True
+Arizona,2018-19,92.9,100.0,Census,True
+Arkansas,2018-19,94.2,95.4,Census (public). voluntary response (private),False
+California,2018-19,96.5,97.7,Census,True
+Colorado,2018-19,87.4,100.0,Census,True
+Connecticut,2018-19,95.9,100.0,Census,True
+Delaware,2018-19,97.8,9.5,Stratified 2-stage cluster sample,False
+Florida,2018-19,93.8,100.0,Census,True
+Georgia,2018-19,93.6,100.0,Census,True
+Hawaii,2018-19,91.5,6.7,Stratified 2-stage cluster sample,False
+Idaho,2018-19,89.5,99.0,Census,True
+Illinois,2018-19,94.7,100.0,Census,True
+Indiana,2018-19,91.2,96.4,Census,True
+Iowa,2018-19,93.3,100.0,Census,True
+Kansas,2018-19,90.8,23.1,Stratified 2-stage cluster sample,False
+Kentucky,2018-19,93.4,99.0,Census,True
+Louisiana,2018-19,95.5,100.0,Census,True
+Maine,2018-19,93.8,95.9,Census,True
+Maryland,2018-19,97.4,100.0,Census,True
+Massachusetts,2018-19,96.9,100.0,Census,True
+Michigan,2018-19,94.6,100.0,Census,True
+Minnesota,2018-19,92.6,98.1,Census,True
+Mississippi,2018-19,99.2,100.0,Census,True
+Missouri,2018-19,94.8,100.0,Census,True
+Montana,2018-19,93.3,100.0,Census,True
+Nebraska,2018-19,96.9,98.6,Census,True
+Nevada,2018-19,95.1,4.8,Stratified 2-stage cluster sample,False
+New Hampshire,2018-19,91.8,100.0,Census,True
+New Jersey,2018-19,95.0,100.0,Census,True
+New Mexico,2018-19,96.1,99.6,Census,True
+New York,2018-19,97.2,100.0,Census,True
+North Carolina,2018-19,93.2,90.9,Census (public). voluntary response (private),False
+North Dakota,2018-19,93.6,99.4,Census,True
+Ohio,2018-19,91.6,94.9,Census (public). voluntary response (private),False
+Oklahoma,2018-19,92.2,92.1,Census (public). voluntary response (private),False
+Oregon,2018-19,93.0,100.0,Census,True
+Pennsylvania,2018-19,96.4,93.3,Census (public). voluntary response (private),False
+Rhode Island,2018-19,97.4,100.0,Census,True
+South Carolina,2018-19,94.2,27.0,Stratified 1-stage cluster sample,False
+South Dakota,2018-19,96.2,99.9,Census,True
+Tennessee,2018-19,96.5,100.0,Census,True
+Texas,2018-19,96.9,99.4,Census,True
+Utah,2018-19,92.8,100.0,Census,True
+Vermont,2018-19,93.0,100.0,Census,True
+Virginia,2018-19,95.0,4.4,Stratified 2-stage cluster sample,False
+Washington,2018-19,90.8,96.9,Census,True
+West Virginia,2018-19,98.8,79.3,Voluntary response,False
+Wisconsin,2018-19,92.6,2.3,Stratified 2-stage cluster sample,False
+Wyoming,2018-19,95.1,100.0,Census,True
+Alabama,2019-20,86.6,94.9,Census,True
+Alaska,2019-20,,82.7,Voluntary response,False
+Arizona,2019-20,92.8,98.7,Census (public). voluntary response (private),False
+Arkansas,2019-20,94.3,96.2,Census (public). voluntary response (private),False
+California,2019-20,96.5,97.9,Census,True
+Colorado,2019-20,91.1,98.2,Census,True
+Connecticut,2019-20,96.2,100.0,Census,True
+Delaware,2019-20,,,Not Conducted,False
+District of Columbia,2019-20,,,Not Conducted,False
+Florida,2019-20,93.5,100.0,Census,True
+Georgia,2019-20,93.1,100.0,Census,True
+Hawaii,2019-20,89.7,8.9,Stratified 2-stage cluster sample,False
+Idaho,2019-20,89.1,98.5,Census,True
+Illinois,2019-20,96.6,100.0,Census,True
+Indiana,2019-20,94.4,65.7,Voluntary response,False
+Iowa,2019-20,93.2,100.0,Census,True
+Kansas,2019-20,90.0,34.3,Stratified 2-stage cluster sample,False
+Kentucky,2019-20,93.1,92.9,Census,True
+Louisiana,2019-20,95.6,100.0,Census,True
+Maine,2019-20,94.1,99.6,Census ,True
+Maryland,2019-20,97.9,98.3,Census (public). voluntary response (private),False
+Massachusetts,2019-20,97.3,100.0,Census,True
+Michigan,2019-20,94.8,100.0,Census,True
+Minnesota,2019-20,92.6,98.7,Census,True
+Mississippi,2019-20,99.1,100.0,Census,True
+Missouri,2019-20,94.6,100.0,Census,True
+Montana,2019-20,93.6,100.0,Census,True
+Nebraska,2019-20,96.3,96.7,Census,True
+Nevada,2019-20,95.4,99.9,Census,True
+New Hampshire,2019-20,91.5,100.0,Census,True
+New Jersey,2019-20,95.9,100.0,Census,True
+New Mexico,2019-20,97.0,100.0,Census,True
+New York,2019-20,98.6,99.9,Census,True
+North Carolina,2019-20,95.5,97.8,Census,True
+North Dakota,2019-20,94.8,99.5,Census,True
+Ohio,2019-20,92.4,98.8,Census,True
+Oklahoma,2019-20,93.0,85.6,Voluntary response,False
+Oregon,2019-20,93.4,100.0,Census,True
+Pennsylvania,2019-20,96.6,98.8,Census,True
+Rhode Island,2019-20,97.7,98.5,Census,True
+South Carolina,2019-20,95.0,27.5,Stratified 1-stage cluster sample,False
+South Dakota,2019-20,96.0,99.8,Census,True
+Tennessee,2019-20,96.8,100.0,Census,True
+Texas,2019-20,96.9,99.6,Census,True
+Utah,2019-20,92.7,100.0,Census,True
+Vermont,2019-20,94.5,100.0,Census,True
+Virginia,2019-20,94.6,1.2,Stratified 2-stage cluster sample,False
+Washington,2019-20,94.4,91.9,Census,True
+West Virginia,2019-20,98.2,49.6,Voluntary response,False
+Wisconsin,2019-20,92.8,2.6,Stratified 2-stage cluster sample,False
+Wyoming,2019-20,94.5,100.0,Census,True
+Alabama,2020-21,94.7,100.0,Census,True
+Arizona,2020-21,91.9,92.4,Census (public). voluntary response (private),False
+Arkansas,2020-21,93.2,95.6,Census (public). voluntary response (private),False
+California,2020-21,95.1,97.5,Census,True
+Colorado,2020-21,90.5,97.3,Census,True
+Connecticut,2020-21,95.3,100.0,Census,True
+Delaware,2020-21,95.7,9.2,Stratified 2-stage cluster sample,False
+District of Columbia,2020-21,78.9,100.0,Census,True
+Florida,2020-21,93.3,100.0,Census,True
+Georgia,2020-21,88.5,100.0,Census,True
+Hawaii,2020-21,90.7,9.3,Stratified 2-stage cluster sample,False
+Idaho,2020-21,86.5,98.3,Census,True
+Illinois,2020-21,,,Not Conducted,False
+Indiana,2020-21,93.1,71.4,Voluntary response,False
+Iowa,2020-21,93.4,100.0,Census,True
+Kansas,2020-21,92.6,32.7,Stratified 2-stage cluster sample,False
+Kentucky,2020-21,88.9,86.4,Census (public). voluntary response (private),False
+Louisiana,2020-21,96.2,100.0,Census,True
+Maine,2020-21,94.3,85.0,Voluntary response (public). census (private),False
+Maryland,2020-21,87.6,75.6,Voluntary response,False
+Massachusetts,2020-21,95.9,100.0,Census,True
+Michigan,2020-21,94.6,100.0,Census,True
+Minnesota,2020-21,89.8,95.2,Census,True
+Mississippi,2020-21,98.9,100.0,Census,True
+Missouri,2020-21,92.6,100.0,Census,True
+Montana,2020-21,92.9,100.0,Census,True
+Nebraska,2020-21,95.5,94.8,Census (public). voluntary response (private),False
+Nevada,2020-21,96.1,94.7,Census (public). voluntary response (private),False
+New Hampshire,2020-21,90.8,57.0,Voluntary response,False
+New Jersey,2020-21,94.3,100.0,Census,True
+New Mexico,2020-21,95.7,100.0,Census,True
+New York,2020-21,98.3,91.5,Census (public). voluntary response (private),False
+NY-City of New York,2020-21,97.4,94.2,Census (public). voluntary response (private),False
+North Carolina,2020-21,95.2,89.0,Census (public). voluntary response (private),False
+North Dakota,2020-21,93.3,99.1,Census,True
+Ohio,2020-21,89.6,91.1,Census (public). voluntary response (private),False
+Oklahoma,2020-21,90.5,90.0,Census (public). voluntary response (private),False
+Oregon,2020-21,92.7,100.0,Census,True
+Pennsylvania,2020-21,95.5,95.0,Census (public). voluntary response (private),False
+Rhode Island,2020-21,97.0,93.0,Census,True
+South Carolina,2020-21,94.4,26.5,Stratified 1-stage cluster sample,False
+South Dakota,2020-21,94.6,99.9,Census,True
+Tennessee,2020-21,96.6,100.0,Census,True
+Texas,2020-21,95.3,98.9,Census,True
+TX-City of Houston,2020-21,83.7,94.9,Census (public). voluntary response (private),False
+Utah,2020-21,91.4,100.0,Census,True
+Vermont,2020-21,94.0,100.0,Census,True
+Virginia,2020-21,95.8,2.0,Stratified 2-stage cluster sample,False
+Washington,2020-21,94.4,100.0,Census,True
+West Virginia,2020-21,,,Not Conducted,False
+Wisconsin,2020-21,87.2,84.5,Voluntary response,False
+Wyoming,2020-21,90.2,100.0,Census,True
+Alabama,2021-22,94.9,100.0,Census,True
+Alaska,2021-22,78.0,76.2,"Vol. response (pub.), not conducted (pvt.)",False
+Arizona,2021-22,90.6,97.0,Census,True
+Arkansas,2021-22,92.5,96.3,"Census (pub.), vol. response (pvt.)",False
+California,2021-22,96.3,98.4,Census,True
+Colorado,2021-22,88.4,97.5,Census,True
+Connecticut,2021-22,95.7,100.0,Census,True
+Delaware,2021-22,96.4,9.5,Stratified 2-stage cluster sample,False
+District of Columbia,2021-22,82.0,100.0,Census,True
+Florida,2021-22,91.7,97.8,Census,True
+Georgia,2021-22,83.2,100.0,Census,True
+Hawaii,2021-22,94.3,6.7,Stratified 2-stage cluster sample,False
+Idaho,2021-22,83.9,99.6,Census,True
+Illinois,2021-22,92.1,100.0,Census,True
+Indiana,2021-22,92.1,75.1,Vol. response,False
+Iowa,2021-22,90.6,100.0,Census,True
+Kansas,2021-22,91.0,29.5,Stratified 1-stage cluster sample,False
+Kentucky,2021-22,86.5,91.5,Census,True
+Louisiana,2021-22,93.7,100.0,Census,True
+Maine,2021-22,96.7,91.6,Census,True
+Maryland,2021-22,93.9,98.4,Census,True
+Massachusetts,2021-22,96.2,100.0,Census,True
+Michigan,2021-22,93.6,100.0,Census,True
+Minnesota,2021-22,89.0,98.7,Census,True
+Mississippi,2021-22,98.6,100.0,Census,True
+Missouri,2021-22,91.6,100.0,Census,True
+Nebraska,2021-22,96.2,99.5,Census,True
+Nevada,2021-22,92.7,99.2,"Census (pub.), vol. response (pvt.)",False
+New Hampshire,2021-22,88.7,100.0,Census,True
+New Jersey,2021-22,94.1,100.0,Census,True
+New Mexico,2021-22,94.3,100.0,Census,True
+New York,2021-22,98.0,99.3,Census,True
+NY-City of New York,2021-22,97.3,99.8,Census,True
+North Carolina,2021-22,96.1,78.5,Vol. response,False
+North Dakota,2021-22,91.5,96.6,Census,True
+Ohio,2021-22,88.3,91.9,"Census (pub.), vol. response (pvt.)",False
+Oklahoma,2021-22,90.9,84.3,Vol. response,False
+Oregon,2021-22,93.0,100.0,Census,True
+Pennsylvania,2021-22,95.0,94.9,"Census (pub.), vol. response (pvt.)",False
+Rhode Island,2021-22,97.3,96.9,Census,True
+South Carolina,2021-22,92.7,27.2,1-stage cluster sample,False
+South Dakota,2021-22,93.7,100.0,Census,True
+Tennessee,2021-22,95.8,100.0,Census,True
+Texas,2021-22,94.0,99.3,Census,True
+TX-City of Houston,2021-22,88.2,99.3,Census,True
+Utah,2021-22,90.0,100.0,Census,True
+Vermont,2021-22,93.4,100.0,Census,True
+Virginia,2021-22,95.5,2.8,Stratified 2-stage cluster sample,False
+Washington,2021-22,92.5,97.3,"Census (pub.), vol. response (pvt.)",False
+West Virginia,2021-22,96.5,85.5,Vol. response,False
+Wisconsin,2021-22,82.6,96.8,"Census (pub.), vol. response (pvt.)",False
+Wyoming,2021-22,92.9,100.0,Census,True
+Alabama,2023-24,93.8,100.0,Census,True
+Alaska,2023-24,84.3,88.9,"Census (pub.), not conducted (prv.)",False
+Arizona,2023-24,89.3,99.6,Census,True
+Arkansas,2023-24,92.5,95.4,"Census (pub.), vol. response (prv.)",False
+California,2023-24,96.2,100.0,Census,True
+Colorado,2023-24,88.3,100.0,Census,True
+Connecticut,2023-24,97.7,100.0,Census,True
+Delaware,2023-24,93.8,12.1,Stratified 2-stage cluster sample,False
+District of Columbia,2023-24,92.0,100.0,Census,True
+Florida,2023-24,88.1,100.0,Census,True
+Georgia,2023-24,88.4,100.0,Census,True
+Hawaii,2023-24,89.8,8.2,Stratified 2-stage cluster sample,False
+Idaho,2023-24,79.6,100.0,Census,True
+Illinois,2023-24,91.6,100.0,Census,True
+Indiana,2023-24,90.8,88.5,"Census (pub.), vol. response (prv.)",False
+Iowa,2023-24,89.1,100.0,Census,True
+Kansas,2023-24,90.4,37.1,Stratified 2-stage cluster sample,False
+Kentucky,2023-24,90.0,100.0,Census,True
+Louisiana,2023-24,92.4,100.0,Census,True
+Maine,2023-24,97.5,93.0,Census,True
+Maryland,2023-24,96.6,100.0,Census,True
+Massachusetts,2023-24,96.3,100.0,Census,True
+Michigan,2023-24,92.1,100.0,Census,True
+Minnesota,2023-24,87.0,99.1,Census,True
+Mississippi,2023-24,97.5,100.0,Census,True
+Missouri,2023-24,90.4,100.0,Census,True
+Nebraska,2023-24,93.9,100.0,Census,True
+Nevada,2023-24,91.9,91.3,Census,True
+New Hampshire,2023-24,89.2,100.0,Census,True
+New Jersey,2023-24,93.2,100.0,Census,True
+New Mexico,2023-24,95.0,100.0,Census,True
+New York,2023-24,97.7,98.8,Census,True
+NY-City of New York,2023-24,96.7,99.3,Census,True
+North Carolina,2023-24,93.8,90.8,"Census (pub.), vol. response (prv.)",False
+North Dakota,2023-24,90.9,97.5,Census,True
+Ohio,2023-24,89.2,94.0,"Census (pub.), vol. response (prv.)",False
+Oklahoma,2023-24,88.3,93.8,"Census (pub.), vol. response (prv.)",False
+Oregon,2023-24,91.2,100.0,Census,True
+Pennsylvania,2023-24,93.5,96.5,Census,True
+Rhode Island,2023-24,97.1,97.8,Census,True
+South Carolina,2023-24,92.1,26.7,Stratified 1-stage cluster sample,False
+South Dakota,2023-24,90.8,99.8,Census,True
+Tennessee,2023-24,95.1,95.8,Census,True
+Texas,2023-24,94.3,92.4,"Census (pub.), vol. response (prv.)",False
+Utah,2023-24,88.8,100.0,Census,True
+Vermont,2023-24,92.9,100.0,Census,True
+Virginia,2023-24,94.2,1.9,Stratified 2-stage cluster sample,False
+Washington,2023-24,91.3,97.2,Census,True
+West Virginia,2023-24,98.3,82.8,Vol. response,False
+Wisconsin,2023-24,84.8,98.2,Census,True
+Wyoming,2023-24,93.5,100.0,Census,True
+TX-City of Houston,2023-24,93.6,67.7,Vol. response,False
+Virginia,2024-25,95.6,1.7,Stratified 2-stage cluster sample,False
+Washington,2024-25,90.9,97.9,Census,True
+Wisconsin,2024-25,84.8,95.7,"Census (pub.), vol. response (prv.)",False
+Wyoming,2024-25,93.6,100.0,Census,True
+Alabama,2024-25,95.2,99.9,Census,True
+Alaska,2024-25,81.2,99.8,"Census (pub.), not conducted (prv.)",False
+Arizona,2024-25,88.6,97.4,Census,True
+Arkansas,2024-25,89.6,96.4,"Census (pub.), vol. response (prv.)",False
+California,2024-25,96.1,100.0,Census,True
+Colorado,2024-25,88.0,100.0,Census,True
+Connecticut,2024-25,98.2,100.0,Census,True
+Delaware,2024-25,94.1,14.2,"2-stage cluster sample (pub.), nonrandom 2-stage cluster sample (prv.)",False
+District of Columbia,2024-25,92.7,100.0,Census,True
+Florida,2024-25,88.8,100.0,Census,True
+Georgia,2024-25,86.8,100.0,Census,True
+Hawaii,2024-25,90.1,10.5,Stratified 2-stage cluster sample,False
+Idaho,2024-25,78.5,99.5,Census,True
+Illinois,2024-25,91.8,99.5,Census,True
+Indiana,2024-25,90.8,92.7,"Census (pub.), vol. response (prv.)",False
+Iowa,2024-25,88.8,100.0,Census,True
+Kansas,2024-25,91.0,29.2,Stratified 2-stage cluster sample,False
+Kentucky,2024-25,86.9,100.0,Census,True
+Louisiana,2024-25,92.6,100.0,Census,True
+Maine,2024-25,97.6,95.4,Census,True
+Maryland,2024-25,96.4,95.6,"Census (pub.), vol. response (prv.)",False
+Massachusetts,2024-25,96.6,100.0,Census,True
+Michigan,2024-25,91.6,100.0,Census,True
+Minnesota,2024-25,86.5,99.7,Census,True
+Mississippi,2024-25,97.6,100.0,Census,True
+Missouri,2024-25,90.0,100.0,Census,True
+Nebraska,2024-25,94.2,100.0,Census,True
+Nevada,2024-25,91.3,92.6,"Census (pub.), vol. response (prv.)",False
+New Hampshire,2024-25,89.2,100.0,Census,True
+New Jersey,2024-25,92.8,100.0,Census,True
+New Mexico,2024-25,94.8,100.0,Census,True
+New York,2024-25,97.8,85.1,Vol. response,False
+NY-City of New York,2024-25,97.1,96.9,"Census (pub.), vol. response (prv.)",False
+North Carolina,2024-25,94.2,91.0,"Census (pub.), vol. response (prv.)",False
+North Dakota,2024-25,90.0,98.8,Census,True
+Ohio,2024-25,88.3,93.2,"Census (pub.), vol. response (prv.)",False
+Oklahoma,2024-25,88.7,86.7,Vol. response,False
+Oregon,2024-25,90.5,100.0,Census,True
+Pennsylvania,2024-25,92.4,95.3,"Census (pub.), vol. response (prv.)",False
+Rhode Island,2024-25,96.7,96.7,Census,True
+South Carolina,2024-25,91.2,34.3,Stratified 1-stage cluster sample,False
+South Dakota,2024-25,90.0,99.3,Census,True
+Tennessee,2024-25,94.4,96.7,Census,True
+Texas,2024-25,93.2,97.3,"Census (pub.), vol. response (prv.)",False
+TX-City of Houston,2024-25,88.7,98.8,"Census (pub.), vol. response (prv.)",False
+Utah,2024-25,88.6,100.0,Census,True
+Vermont,2024-25,93.5,100.0,Census,True
+Hawaii,2025-26,89.3,11.7,Stratified 2-stage cluster sample,False
+Idaho,2025-26,75.2,100.0,Census,True
+Illinois,2025-26,92.8,99.8,Census,True
+Ohio,2025-26,88.1,95.9,"Census (pub.), vol. response (prv.)",False
+Oklahoma,2025-26,87.8,90.7,"Census (pub.), vol. response (prv.)",False
+Oregon,2025-26,89.6,100.0,Census,True
+Pennsylvania,2025-26,92.7,95.7,"Census (pub.), vol. response (prv.)",False
+Utah,2025-26,87.2,100.0,Census,True
+Vermont,2025-26,93.8,100.0,Census,True
+Virginia,2025-26,93.6,95.7,Census,True
+Washington,2025-26,90.6,99.1,Census,True
+West Virginia,2025-26,98.9,93.3,Census,True
+Wisconsin,2025-26,85.1,96.6,"Census (pub.), vol. response (prv.)",False
+Wyoming,2025-26,92.6,100.0,Census,True
+Indiana,2025-26,90.1,87.1,Vol. response,False
+Iowa,2025-26,88.9,100.0,Census,True
+Kansas,2025-26,,,Stratified 2-stage cluster sample,False
+Kentucky,2025-26,91.1,100.0,Census,True
+Louisiana,2025-26,90.3,100.0,Census,True
+Maine,2025-26,98.0,94.4,Census,True
+Maryland,2025-26,96.6,97.8,"Census (pub.), vol. response (prv.)",False
+Massachusetts,2025-26,96.5,100.0,Census,True
+Michigan,2025-26,90.9,100.0,Census,True
+Minnesota,2025-26,85.7,99.9,Census,True
+Mississippi,2025-26,97.0,100.0,Census,True
+Missouri,2025-26,89.5,100.0,Census,True
+Nebraska,2025-26,92.8,100.0,Census,True
+Nevada,2025-26,90.8,93.6,"Census (pub.), vol. response (prv.)",False
+New Hampshire,2025-26,88.2,100.0,Census,True
+New Jersey,2025-26,92.5,92.3,Census,True
+New Mexico,2025-26,95.1,100.0,Census,True
+New York,2025-26,97.7,95.8,"Census (pub.), vol. response (prv.)",False
+NY-City of New York,2025-26,97.1,98.1,Census,True
+North Carolina,2025-26,93.7,90.1,"Census (pub.), vol. response (prv.)",False
+North Dakota,2025-26,88.5,98.6,Census,True
+Rhode Island,2025-26,96.7,97.1,Census,True
+South Carolina,2025-26,93.4,26.2,Stratified 1-stage cluster sample,False
+South Dakota,2025-26,89.3,100.0,Census,True
+Tennessee,2025-26,94.4,97.4,Census,True
+Texas,2025-26,93.2,98.3,"Census (pub.), vol. response (prv.)",False
+TX-City of Houston,2025-26,92.1,94.6,"Census (pub.), vol. response (prv.)",False
+Alabama,2025-26,94.3,100.0,Census,True
+Alaska,2025-26,89.9,60.9,"Vol. response (public), not conducted (private)",False
+Arizona,2025-26,87.4,92.5,"Census (pub.), vol. response (prv.)",False
+Arkansas,2025-26,91.5,96.7,"Census (pub.), vol. response (prv.)",False
+California,2025-26,95.7,100.0,Census,True
+Colorado,2025-26,87.7,100.0,Census,True
+Connecticut,2025-26,98.6,100.0,Census,True
+Delaware,2025-26,93.5,12.9,"2-stage cluster sample (pub.), nonrandom 2-stage cluster sample (prv.)",False
+District of Columbia,2025-26,94.4,100.0,Census,True
+Florida,2025-26,88.9,100.0,Census,True
+Georgia,2025-26,89.1,100.0,Census,True

@@ -51,3 +51,21 @@ def balanced_sample(pool, cap=5, seed=42):
             .head(cap)
             .sort_values("collection_date")
     )
+
+
+def clean_cdc_mmr(df):
+    """State-level MMR coverage from the CDC SchoolVaxView kindergarten export.
+
+    Keeps the plain 'MMR' series (the headline figure), drops national rows, and
+    turns non-numeric codes (NReq, NR, ...) into missing values.
+    """
+    out = df[(df["Vaccine/Exemption"] == "MMR") & (df["Geography Type"] == "States")].copy()
+    out["mmr_coverage"] = pd.to_numeric(out["Estimate (%)"], errors="coerce")
+    out["state"] = out["Geography"]
+    out["school_year"] = out["School Year"]
+    out["percent_surveyed"] = out["Percent Surveyed"]
+    out["survey_type"] = out["Survey Type"]
+    out["full_census"] = out["Survey Type"].fillna("").str.strip().str.lower() == "census"
+    cols = ["state", "school_year", "mmr_coverage", "percent_surveyed",
+            "survey_type", "full_census"]
+    return out[cols].reset_index(drop=True)
